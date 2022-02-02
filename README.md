@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love codding, so I'm Commited
 
-<img src="https://github-readme-stats.vercel.app/api?username=nivin77789&&show_icons=true&title_color=ffffff&icon_color=0000FF&text_color=daf7dc&bg_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api?username=nivin77789&&show_icons=true&title_color=ffffff&icon_color=0000FF&text_color=daf7dc&bg_color=0D1119">
