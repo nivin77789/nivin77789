@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love codding, so I'm Commited
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivin77789&show_icons=true&title_color=C0C0C0&icon_color=800080&text_color=daf7dc&bg_color=0D1117"><nobr>---<img src="https://github-readme-stats.vercel.app/api?username=nivin77789&show_icons=true&title_color=C0C0C0&icon_color=800080&text_color=daf7dc&bg_color=0D1117"><nobr>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivin77789&date_format=M%20j%5B%2C%20Y%5D&bg_color=0D1117"><nobr>---<img src="https://github-readme-stats.vercel.app/api?username=nivin77789&show_icons=true&title_color=C0C0C0&icon_color=800080&text_color=daf7dc&bg_color=0D1117"><nobr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivin77789&layout=compact&bg_color=0D1117">
 
