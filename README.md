@@ -5,6 +5,8 @@
 - Ask me about React or any tech related stuffs...
 - How to reach me: nivin77789@gmail.com
 - Fun fact: I love codding, so I'm Commited
+- 
 
-                                 <img src="https://github-readme-stats.vercel.app/api?username=nivin77789&show_icons=true&theme=github_dark&hide_border=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivin77789&layout=compact&theme=github_dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=nivin77789&show_icons=true&theme=github_dark&hide_border=true"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivin77789&layout=compact&theme=github_dark&hide_border=true">
 
