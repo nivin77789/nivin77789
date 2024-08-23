@@ -7,7 +7,7 @@
 
 
  <p  align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=nivin77789&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?nivinmathews" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?nivinmathews)
  <p  align="center" ><img src="https://leetcard.jacoblin.cool/nivin77789?ext=heatmap"></p>
 
 
