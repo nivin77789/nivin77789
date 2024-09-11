@@ -1,6 +1,6 @@
 <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi!+I+am+Nivin+Mathew+S;Data+scientist;Freelancer" alt="Typing SVG" /></a>
 
-<div align="right"><p align="right" style="font-family: Orbitron;"> PROFILE VISITS</p> <img align="right" src="https://profile-counter.glitch.me/nivin77789/count.svg"></div>
+<div align="center"><p align="center" style="font-family: Orbitron;"> PROFILE VISITS</p> <img align="center" src="https://profile-counter.glitch.me/nivin77789/count.svg"></div>
 
 
 
